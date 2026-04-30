@@ -1,4 +1,5 @@
 import { useNavigate } from 'react-router-dom';
+import PlacesAPI from '../PlacesAPI';
 
 function Home() {
   const navigate = useNavigate();
@@ -46,6 +47,11 @@ function Home() {
             </div>
           ))}
         </div>
+      </div>
+
+      {/* API Data Section - Shows places from .NET backend */}
+      <div className="container">
+        <PlacesAPI />
       </div>
     </>
   );
