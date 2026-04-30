@@ -6,8 +6,8 @@ function PlacesAPI() {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        // Fetch data from your .NET API
-        fetch('http://localhost:5226/api/places')
+        // Fetch data from LIVE .NET API on Render
+        fetch('https://bangladesh-dotnet-api.onrender.com/api/places')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
