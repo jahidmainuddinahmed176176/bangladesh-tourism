@@ -1,16 +1,40 @@
-# React + Vite
+# Bangladesh Tourism - Explore the Beauty of Bangladesh
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive tourism website showcasing the most beautiful destinations in Bangladesh, including Cox's Bazar, Sylhet, and Bandarban.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** https://bangladesh-tourism.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+📦 **GitHub:** https://github.com/jahidmainuddinahmed176176/bangladesh-tourism
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🏖️ **Cox's Bazar** - World's longest natural sea beach
+- ⛰️ **Bandarban** - Breathtaking hill tracts and indigenous culture
+- 🍃 **Sylhet** - Lush tea gardens and serene landscapes
+- 📱 **Fully Responsive** - Works on desktop, tablet, and mobile
+- ⚡ **Fast Performance** - Built with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- React 19
+- Vite
+- CSS3
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v18 or higher)
+
+### Installation
+
+```bash
+git clone https://github.com/jahidmainuddinahmed176176/bangladesh-tourism.git
+cd bangladesh-tourism
+npm install
+npm run dev
