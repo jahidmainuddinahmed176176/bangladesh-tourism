@@ -38,4 +38,4 @@ git clone https://github.com/jahidmainuddinahmed176176/bangladesh-tourism.git
 cd bangladesh-tourism
 npm install
 npm run dev
-"# force rebuild" 
+
